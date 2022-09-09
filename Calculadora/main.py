@@ -2,7 +2,6 @@
 from tkinter import *
 from tkinter import ttk
 
-import click
 
 #cores
 cor1 = "#050505" #preta
